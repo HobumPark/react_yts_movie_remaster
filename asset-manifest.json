@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_yts_movie_remaster/static/css/main.4b65cf2f.chunk.css",
+    "main.js": "/react_yts_movie_remaster/static/js/main.b44e27aa.chunk.js",
+    "main.js.map": "/react_yts_movie_remaster/static/js/main.b44e27aa.chunk.js.map",
+    "runtime-main.js": "/react_yts_movie_remaster/static/js/runtime-main.6f367f68.js",
+    "runtime-main.js.map": "/react_yts_movie_remaster/static/js/runtime-main.6f367f68.js.map",
+    "static/js/2.06d1d021.chunk.js": "/react_yts_movie_remaster/static/js/2.06d1d021.chunk.js",
+    "static/js/2.06d1d021.chunk.js.map": "/react_yts_movie_remaster/static/js/2.06d1d021.chunk.js.map",
+    "static/js/3.aa9ad699.chunk.js": "/react_yts_movie_remaster/static/js/3.aa9ad699.chunk.js",
+    "static/js/3.aa9ad699.chunk.js.map": "/react_yts_movie_remaster/static/js/3.aa9ad699.chunk.js.map",
+    "index.html": "/react_yts_movie_remaster/index.html",
+    "static/css/main.4b65cf2f.chunk.css.map": "/react_yts_movie_remaster/static/css/main.4b65cf2f.chunk.css.map",
+    "static/js/2.06d1d021.chunk.js.LICENSE.txt": "/react_yts_movie_remaster/static/js/2.06d1d021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f367f68.js",
+    "static/js/2.06d1d021.chunk.js",
+    "static/css/main.4b65cf2f.chunk.css",
+    "static/js/main.b44e27aa.chunk.js"
+  ]
+}
