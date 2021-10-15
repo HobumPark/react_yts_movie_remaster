@@ -1,0 +1,45 @@
+#Pagination{
+    width:95%;
+    height:150px;
+    background-color: #777;
+    margin:0 auto;
+}
+
+#Pagination>span:first-child{
+    width:1000px;
+    height:40px;
+    background-color: indigo;
+    display: block;
+    margin:-10px auto;
+    font-size:26px;
+}
+
+#Pagination>span:nth-child(3){
+    width:1000px;
+    height:40px;
+    background-color: khaki;
+    display: block;
+    margin:-10px auto;
+    font-size:26px;
+}
+
+#Pagination>#page_list{
+    width:50%;
+    height:50px;
+    background-color:#777 ;
+    margin:0 auto;
+    text-align: center;
+}
+
+.page{
+    border:1px solid black;
+    margin-right:2px;
+    width:35px;
+    height:35px;
+    font-size:26px;
+    display: inline-block;
+    font-weight: bold;
+    padding-left:5px;
+    box-sizing: border-box;
+    margin-right:10px;
+}
